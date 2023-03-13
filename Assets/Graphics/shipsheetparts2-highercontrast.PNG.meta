@@ -1,0 +1,2434 @@
+fileFormatVersion: 2
+guid: f7d9f4add31f17148999087bfa255555
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 22
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 397
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e6d43766d26ba4790858c076f5a195
+      internalID: 2060062581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 396
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2ca02f376362d4bb1915bdbd8f7d5b
+      internalID: -1283541925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 392
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a87ce33b2800f499c0e5209463eedc
+      internalID: -916363146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 395
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb20c61a9b61fd1488c839c23f8bb094
+      internalID: -1789349204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 393
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca067f33f918ae409ee7add48bb6d94
+      internalID: 690457468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 395
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab49c4c3097f6845b6718cced950a31
+      internalID: -882656167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 393
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6b66be973785148bb529c6e1c26bbc
+      internalID: 889670650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_7
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 394
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f3613e6b6641246926da47c48f8111
+      internalID: -1776948625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 357
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc82fdffe33399745acc9b4cc1651e7a
+      internalID: 1523580751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 357
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c069a00d52a240a4392a5b4f93c18bdd
+      internalID: 844627143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 357
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9debf13a8762f824ab34d661732e1184
+      internalID: 760716592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 355
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b0992538d0fe14495ae9c2ce2df7b0
+      internalID: 435214835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 355
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b9323506ae4714e88beab37e222b08
+      internalID: 1783910303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 355
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25f027c0a7ea2d41803a1f299a573e7
+      internalID: -1732738416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 354
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ea1df2c6463d84b83ee4c521f7978c
+      internalID: 172926191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 354
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a4421016fbdb344877e6082e575001
+      internalID: 312747481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_16
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 354
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059a780beb274b84b8eb0058026dd04d
+      internalID: -383785959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 318
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab4b572dfd613748a28722da7a79dde
+      internalID: 1082022305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 318
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab7b0371eb12e74fb652260ec38727c
+      internalID: -1854892369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 318
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4ffde8fabd3e840a6f3f54c60d522b
+      internalID: 2079185548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 318
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23191cff3ee6ca24e928b3142a320897
+      internalID: 1159257069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 313
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7995959813871842b556a56e5f307fc
+      internalID: 912195872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 313
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1555221a58bf339468692972963a8b44
+      internalID: -1977367089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 319
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4f757ef692fac408a06de8bde7934e
+      internalID: 990512341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 319
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d38d68abfffe7d4fbaba7b189e299b9
+      internalID: -1265655904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_25
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 317
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d577b464ebf49a47861579e940ffcc6
+      internalID: -1201381059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_26
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 317
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168f5b17a3909c24aa6f81eb4696a1d1
+      internalID: 965281449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_27
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 320
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1407b6653a924d14d8f1c0fb5a54cb0f
+      internalID: 637177978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 320
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9248501d1b3962c42a01751a193ba160
+      internalID: -786947473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 313
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5955eec3c199274c9787b8d564b93ee
+      internalID: 11542248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_30
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 313
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8c6182a6f939747a0c908da27e66ac
+      internalID: 927655181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_31
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 312
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04059f0e370ac5349a098afeb31d9618
+      internalID: 283284893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_32
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 312
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cae8fe016bb294f8571de1250c62c1
+      internalID: 1761139702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_33
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 314
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c088394258ca5494d9afbfc8923cc8e8
+      internalID: 1356410193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_34
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 314
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7199bc306b8ccec439acf90d11d043e8
+      internalID: -1613791373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_35
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 248
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4eab10b33232344ab0e21a862616bce
+      internalID: -2128399363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_36
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 247
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0137fcaffdd2691448ec45e387e7a2a5
+      internalID: -1285285405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 243
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b018288614f430d48b3a61d82741c4d6
+      internalID: -264265084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_38
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 246
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e129454cde0c274e90c4eb742fcdc3f
+      internalID: -2005353303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_39
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 244
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452c625c4ddbf3142ba3ff48eb836e95
+      internalID: 336782532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_40
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 246
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87f6d65411c367478803df1b64c5fe3
+      internalID: -977386254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_41
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 244
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c8c0e3d0164cc489e6edd718a318ae
+      internalID: -868110056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_42
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 245
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9ab54b967998a4b9cc1e7d6184fb6f
+      internalID: -912481913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_43
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 208
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b81c9eb1e8f564db0a9916735e506b
+      internalID: 1098846116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_44
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 208
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385deb876322deb4186c6733fbe2228c
+      internalID: -446624365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_45
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 208
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be88058792d8ef54ab621a3bd77aeabc
+      internalID: 1029315801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_46
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 206
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2663ea610d8a3b74d9ed56b1ce4d7375
+      internalID: 1170557151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_47
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 206
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031da09064cad9f44ba1df2815c480df
+      internalID: 1348053971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_48
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 206
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f509e124f3bbac4f8cc4b7cf70719e8
+      internalID: 1680657344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 205
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ab2a494f64ad4498c30df7f5a94dca
+      internalID: 1097700611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_50
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 205
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd06f550e4d0bb4c803a79f0f0cd4bb
+      internalID: -1544675048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_51
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 205
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24b6b1a80e802641b14f77754969562
+      internalID: 1341253326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_52
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 169
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140ba36b0fa0eba45a5c14ed46c96039
+      internalID: -1791371672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_53
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 169
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8c685578772ed468cd522e9414396e
+      internalID: -1769106018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_54
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 169
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac689b906a6eb4418ecf0ee8a58246e
+      internalID: -58920294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_55
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 169
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ef9f6ecbd1a6f49848dd8f6c98ef39
+      internalID: -1249801255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_56
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 164
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5e3c1c2683dc44f8badc34cab8ebd7
+      internalID: 1028356732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_57
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 164
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862820a57040b9d4393b9fa229be6c90
+      internalID: 1064826178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_58
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 170
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26cde5644580b346bff36ba23d740b6
+      internalID: 462092379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_59
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 170
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675fa95907a6aa84aad8e51d9b85fb10
+      internalID: 1714667861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_60
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 168
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006fcb582cc38df429c37ef03fd7ea48
+      internalID: -66479013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_61
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 168
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64766e8c101330d428d4971f4b3fa168
+      internalID: 8278393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_62
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 171
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2b3a61327d3764285a5e07c66707bd
+      internalID: -147450651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_63
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 171
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fe1f609632e2f4aa6e024127bec3ee
+      internalID: -1506787643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 164
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a357e47b63bc95049b5646209525741b
+      internalID: -450908624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_65
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 164
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7285809e472e8e4f909a1fee09778a3
+      internalID: 746009381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_66
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 163
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095c827d24d603a4ba1de96f9ef7a90a
+      internalID: -220919260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_67
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 163
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de09823f08b43e4fa302caa930c30a2
+      internalID: -1203394874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_68
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 165
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7591f22f7536a41896a0ec59c80018
+      internalID: 1716581091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_69
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 165
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddad5537adb8f3449b3340a9f889a22
+      internalID: -1002027739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_70
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 100
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91bbbee619b6e5478776db5a8d3cc65
+      internalID: -34974848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_71
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 99
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385bbf0038c6d4c41a058db1ae654dae
+      internalID: -1139484901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 95
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f52f36e80070c4eb66995fd70298a4
+      internalID: -1696375884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_73
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 98
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7fc7811ed769247a8532efe41c2f36
+      internalID: -1375543621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_74
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 96
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087444c89612c9e49bd8be88239cecd7
+      internalID: -520156978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_75
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 98
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b73a3e0ca35414aaac075229591e95
+      internalID: -41062865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_76
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 96
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad9e04db2df19d4e9973e52c274c3e2
+      internalID: 2114301338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_77
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 97
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2efa162542ec646a54f78eea872e21
+      internalID: 1066967556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_78
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 60
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e4b02300f48ee4886feae1072b4a09
+      internalID: -1427277444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_79
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 60
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077f5fa3a0c2aab41977afaea9181020
+      internalID: 1650661021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_80
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 60
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4496aab5ad9c6408dca7d7ff6108f0
+      internalID: -452397295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_81
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 58
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65315b3818a57d7469d19efef33ef48e
+      internalID: 820485694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_82
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 58
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b73ec4351760d49bc1169504166eb3
+      internalID: -1977580500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_83
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 58
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853cc1a047f6a6d4f8b61f8cc2df61db
+      internalID: 508280667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_84
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 57
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83eed6be3d600a48b71f987838010fa
+      internalID: 461850831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_85
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 57
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b5869e1b375404dbc68db288090b78
+      internalID: 1851734634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_86
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 57
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f7c398f690efb4e9733d051d892444
+      internalID: 1666736858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_87
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 21
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e27dfadc810a14b89a222e03ca3956
+      internalID: -2137256014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_88
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 21
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c910c446364a0c42a2154e5824f3fe4
+      internalID: -1046572035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_89
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 21
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a971f5de997eda4b93030c44bd5498c
+      internalID: -1596023625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_90
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 21
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10e915c82310c945a8f306fbe44c4a6
+      internalID: 784483507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_91
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 16
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c97108428aad94e802eaa66c7b03cf
+      internalID: 341215025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_92
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 16
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ea94b6758a9fb44ba7707b04299afd
+      internalID: 355933065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_93
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 22
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe3df722748d2441acaea7d316e207f
+      internalID: 586870481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_94
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 22
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01733a5bd0446f45b7ba368488cbc02
+      internalID: -1513864019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_95
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 20
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c791525d41103449866a1fce061cca
+      internalID: 1550492563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_96
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 20
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9186699aef56b0c48b3fbf1b57424170
+      internalID: -269459986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_97
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 23
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2be423cbdc2a14f83be75671554e57
+      internalID: 160726428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_98
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 23
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6838e569748b0004bb0ccce815f00912
+      internalID: 544394791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_99
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 16
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d7e929b5054654cb63e4890ffb954f
+      internalID: 1060542740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_100
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 16
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd41b29d390652b4dba8d14534114a50
+      internalID: -1034578150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_101
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 15
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e66b185ed72504bb83e54ff28c4d1c
+      internalID: 289099270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_102
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 15
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613a93fbc7fbc254b80d8e2f957e1ba7
+      internalID: 892991332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_103
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 17
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a8b47dad547be4986a4efaec19806c
+      internalID: 1789718363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsheetparts2-highercontrast_104
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 17
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54223abc6a513d14b85123ff86c389ae
+      internalID: -1164684072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      shipsheetparts2-highercontrast_0: 2060062581
+      shipsheetparts2-highercontrast_1: -1283541925
+      shipsheetparts2-highercontrast_10: 760716592
+      shipsheetparts2-highercontrast_100: -1034578150
+      shipsheetparts2-highercontrast_101: 289099270
+      shipsheetparts2-highercontrast_102: 892991332
+      shipsheetparts2-highercontrast_103: 1789718363
+      shipsheetparts2-highercontrast_104: -1164684072
+      shipsheetparts2-highercontrast_11: 435214835
+      shipsheetparts2-highercontrast_12: 1783910303
+      shipsheetparts2-highercontrast_13: -1732738416
+      shipsheetparts2-highercontrast_14: 172926191
+      shipsheetparts2-highercontrast_15: 312747481
+      shipsheetparts2-highercontrast_16: -383785959
+      shipsheetparts2-highercontrast_17: 1082022305
+      shipsheetparts2-highercontrast_18: -1854892369
+      shipsheetparts2-highercontrast_19: 2079185548
+      shipsheetparts2-highercontrast_2: -916363146
+      shipsheetparts2-highercontrast_20: 1159257069
+      shipsheetparts2-highercontrast_21: 912195872
+      shipsheetparts2-highercontrast_22: -1977367089
+      shipsheetparts2-highercontrast_23: 990512341
+      shipsheetparts2-highercontrast_24: -1265655904
+      shipsheetparts2-highercontrast_25: -1201381059
+      shipsheetparts2-highercontrast_26: 965281449
+      shipsheetparts2-highercontrast_27: 637177978
+      shipsheetparts2-highercontrast_28: -786947473
+      shipsheetparts2-highercontrast_29: 11542248
+      shipsheetparts2-highercontrast_3: -1789349204
+      shipsheetparts2-highercontrast_30: 927655181
+      shipsheetparts2-highercontrast_31: 283284893
+      shipsheetparts2-highercontrast_32: 1761139702
+      shipsheetparts2-highercontrast_33: 1356410193
+      shipsheetparts2-highercontrast_34: -1613791373
+      shipsheetparts2-highercontrast_35: -2128399363
+      shipsheetparts2-highercontrast_36: -1285285405
+      shipsheetparts2-highercontrast_37: -264265084
+      shipsheetparts2-highercontrast_38: -2005353303
+      shipsheetparts2-highercontrast_39: 336782532
+      shipsheetparts2-highercontrast_4: 690457468
+      shipsheetparts2-highercontrast_40: -977386254
+      shipsheetparts2-highercontrast_41: -868110056
+      shipsheetparts2-highercontrast_42: -912481913
+      shipsheetparts2-highercontrast_43: 1098846116
+      shipsheetparts2-highercontrast_44: -446624365
+      shipsheetparts2-highercontrast_45: 1029315801
+      shipsheetparts2-highercontrast_46: 1170557151
+      shipsheetparts2-highercontrast_47: 1348053971
+      shipsheetparts2-highercontrast_48: 1680657344
+      shipsheetparts2-highercontrast_49: 1097700611
+      shipsheetparts2-highercontrast_5: -882656167
+      shipsheetparts2-highercontrast_50: -1544675048
+      shipsheetparts2-highercontrast_51: 1341253326
+      shipsheetparts2-highercontrast_52: -1791371672
+      shipsheetparts2-highercontrast_53: -1769106018
+      shipsheetparts2-highercontrast_54: -58920294
+      shipsheetparts2-highercontrast_55: -1249801255
+      shipsheetparts2-highercontrast_56: 1028356732
+      shipsheetparts2-highercontrast_57: 1064826178
+      shipsheetparts2-highercontrast_58: 462092379
+      shipsheetparts2-highercontrast_59: 1714667861
+      shipsheetparts2-highercontrast_6: 889670650
+      shipsheetparts2-highercontrast_60: -66479013
+      shipsheetparts2-highercontrast_61: 8278393
+      shipsheetparts2-highercontrast_62: -147450651
+      shipsheetparts2-highercontrast_63: -1506787643
+      shipsheetparts2-highercontrast_64: -450908624
+      shipsheetparts2-highercontrast_65: 746009381
+      shipsheetparts2-highercontrast_66: -220919260
+      shipsheetparts2-highercontrast_67: -1203394874
+      shipsheetparts2-highercontrast_68: 1716581091
+      shipsheetparts2-highercontrast_69: -1002027739
+      shipsheetparts2-highercontrast_7: -1776948625
+      shipsheetparts2-highercontrast_70: -34974848
+      shipsheetparts2-highercontrast_71: -1139484901
+      shipsheetparts2-highercontrast_72: -1696375884
+      shipsheetparts2-highercontrast_73: -1375543621
+      shipsheetparts2-highercontrast_74: -520156978
+      shipsheetparts2-highercontrast_75: -41062865
+      shipsheetparts2-highercontrast_76: 2114301338
+      shipsheetparts2-highercontrast_77: 1066967556
+      shipsheetparts2-highercontrast_78: -1427277444
+      shipsheetparts2-highercontrast_79: 1650661021
+      shipsheetparts2-highercontrast_8: 1523580751
+      shipsheetparts2-highercontrast_80: -452397295
+      shipsheetparts2-highercontrast_81: 820485694
+      shipsheetparts2-highercontrast_82: -1977580500
+      shipsheetparts2-highercontrast_83: 508280667
+      shipsheetparts2-highercontrast_84: 461850831
+      shipsheetparts2-highercontrast_85: 1851734634
+      shipsheetparts2-highercontrast_86: 1666736858
+      shipsheetparts2-highercontrast_87: -2137256014
+      shipsheetparts2-highercontrast_88: -1046572035
+      shipsheetparts2-highercontrast_89: -1596023625
+      shipsheetparts2-highercontrast_9: 844627143
+      shipsheetparts2-highercontrast_90: 784483507
+      shipsheetparts2-highercontrast_91: 341215025
+      shipsheetparts2-highercontrast_92: 355933065
+      shipsheetparts2-highercontrast_93: 586870481
+      shipsheetparts2-highercontrast_94: -1513864019
+      shipsheetparts2-highercontrast_95: 1550492563
+      shipsheetparts2-highercontrast_96: -269459986
+      shipsheetparts2-highercontrast_97: 160726428
+      shipsheetparts2-highercontrast_98: 544394791
+      shipsheetparts2-highercontrast_99: 1060542740
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
